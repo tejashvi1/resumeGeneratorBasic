@@ -3,13 +3,13 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.input{
+.input-fields{
     margin: 2px auto;
     max-width: 500px;
     
 }
 
-.input input,textarea{
+.input-fields input,textarea{
     width: 100%;
     height: 40px;
     margin: 2px;
